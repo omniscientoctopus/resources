@@ -20,6 +20,8 @@ MATLAB-Reinforcement Learning for Engineers
 - [REINFORCEMENT LEARNING AND OPTIMAL CONTROL](http://www.mit.edu/~dimitrib/RLbook.html)
 
 # Online Lectures
+[Introduction to AI](https://people.eecs.berkeley.edu/~russell/classes/cs188/f14/lecture_videos.html). I found the videos on Markov Decision Processes, and Reinforcement Learning quite useful.
+
 [Introduction to Reinforcement Learning with David Silver (UCL)](https://www.deepmind.com/learning-resources/introduction-to-reinforcement-learning-with-david-silver "https://www.deepmind.com/learning-resources/introduction-to-reinforcement-learning-with-david-silver")
 
 **Deep Reinforcement Learning Lectures**
