@@ -33,6 +33,11 @@ More in depth lectures
 
 - [CS 285: Deep Reinforcement Learning Fall 2022 (UC Berkeley)](https://www.youtube.com/playlist?list=PL_iWQOsE6TfX7MaC6C3HcdOf1g337dlC9)
 
+# Talks
+
+[Multi-Agent Learning Seminar](https://www.youtube.com/@multi-agentlearningseminar5144)
+
+
 # Demos
 
 [Demos for basic algorithms](https://cs.stanford.edu/people/karpathy/reinforcejs/index.html) by Andrej Karpathy. They are great for building intuition without having to write any code.
